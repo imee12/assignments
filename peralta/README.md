@@ -1,7 +1,9 @@
-# peralta
+# Sk8 Site - Wireframe => HTML
 
 ## Description
-peralta
+Without fail, a front-end developer will need to convert a wireframe into a fully functioning website, and responsive at that.
+
+![Powell Peralta](assets/powell_peralta.jpg)
 
 ## Objectives
 
@@ -9,13 +11,19 @@ peralta
 
 After completing this assignment, you should…
 
-* Understand ...
+* Have solid understanding of HTML/CSS/SASS
+* Understand principles of RWD and be able to effectively execute a solid flow of content from desktop to mobile.
+* Be able to leverage developer tools to test on mobile devices.
 
 ### Performance Objectives
 
 After completing this assignment, you be able to effectively use
 
-* Use ...
+* From a high fidelity wireframe, you should be able to, with a high degree of accuracy, create an html prototype of said design.
+* @media queries
+* SASS
+* HTML
+* manually compile SASS => CSS
 
 
 ## Details
@@ -23,32 +31,18 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * `gulpfile.js`
-  * `package.json`
-  * `bower.json`
-  * `main.js`
   * `index.html`
-  * `test/main.js`
-  * `test/index.html`
-  * `test/bower.json`
+  * `scss/<sass files>.scss`
+  * `css/<css files>.css`
 
-### Requirements
-
-* Passing unit tests
-* No JSHint warnings or errors
 
 ## Normal Mode
 
-Normal mode description
+* Create a web page from the given Powell Peralta wireframe.
+* The finished prototype must be responsive and adjust in a usable way to mobile devices.
+* SASS will be written and compiled to CSS
+
 
 ## Hard Mode
 
-Hard mode description
-
-## Notes
-
-Notes go here...
-
-## Additional Resources
-
-* Read []()
+Do everything just like normal mode, but also add an image slider to the header and the skateboard section and form validation to the contact form at the bottom page.
