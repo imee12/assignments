@@ -42,11 +42,3 @@ Instead of using the browser and the Chrome Dev Tools console to look at your JS
 ## Hard Mode
 
 In addition to the [easy mode](#easy-mode), write a function in `exercises-1` that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
-
-## Notes
-
-Notes go here...
-
-## Additional Resources
-
-* Read []()
