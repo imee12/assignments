@@ -1,7 +1,7 @@
 # Photo albums
 
 ## Description
-You're going to create a gallery application which will allow the user to view their albums as well as the individual photos contained within, as a single page application.
+You're going to create a gallery application which will allow the user to view their albums as well as the individual photos contained within, as a single page application (SPA).
 
 ## Wireframes
 
@@ -65,4 +65,6 @@ Do everything in normal mode, but also:
 
 ## Additional Resources
 
-* Read []()
+* [jQuery Documentation](http://api.jquery.com/)
+* [Practice jQuery](http://try.jquery.com)
+* [jQuery DOM Traversing](http://api.jquery.com/category/traversing/)
