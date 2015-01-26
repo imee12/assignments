@@ -38,6 +38,7 @@ After completing this assignment, you be able to effectively use
   * `bower.json` (that contains yoru dependencies)
   * `main.js`
   * `.gitignore`
+  * `index.html`
 
 ### Requirements
 
