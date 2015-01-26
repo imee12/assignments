@@ -48,6 +48,7 @@ After completing this assignment, you be able to effectively use
   - Name of product
   - Description of product
   - Price of product
+  - Image of product.
 * Create a `main.js` file that contains an object literal that holds the methods used to put the data on the page.
 * `main.js` should also have a Document Ready portion where the object is initialized.
 * There should be no HTML markup in your data.js file, only data.
@@ -55,7 +56,7 @@ After completing this assignment, you be able to effectively use
 
 ## Normal Mode
 
-Create a single page products listing that includes the name, description, and price of at least 6 products.  Markup cannot exist on the page for each individual product, but should be inserted using jQuery/javascript in your main.js file.  Your data file also should not contain any html markup.
+Create a single page products listing that includes the name, description, image, and price of at least 6 products.  Markup cannot exist on the page for each individual product, but should be inserted using jQuery/javascript in your main.js file.  Your data file also should not contain any html markup.
 
 ## Hard Mode
 
