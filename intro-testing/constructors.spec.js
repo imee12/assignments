@@ -48,6 +48,30 @@ function expect(expectation) {
 */
 
 // Write Constructors HERE
+function Human (name) {
+  this.name = name;
+  this.feed = function (pet) {
+  }
+  this.mood= "happy";
+  this.pet = function (pet) {
+
+  }
+  this.isCool = false;
+
+  }
+
+
+
+function Pet (name) {
+  this.name = name;
+  this.color = "golden";
+  this.isHungry= false;
+  this.mood = "happy";
+  //this.owner = calvin;
+
+}
+
+
 
 /* instances defined for unwritten constructors
 ** DO NOT EDIT ANY LINE BELOW
@@ -71,6 +95,8 @@ var snips = new Pet({
 });
 
 // Tests
+
+
 // Do not edit the tests below, you will need to write your
 // constructors above so that the following tests pass.
 
